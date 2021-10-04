@@ -2,7 +2,7 @@
 
 Friendly reminder: We have a [bug bounty program](https://hackerone.com/cosmos).
 
-## vX.X
+## v0.35.0-rc3
 
 Month, DD, YYYY
 
@@ -11,6 +11,7 @@ Special thanks to external contributors on this release:
 ### BREAKING CHANGES
 
 - CLI/RPC/Config
+  - [config] [\#7054] Make ABCI semantic versions match the TM version (@creachadair)
 
 - Apps
 
